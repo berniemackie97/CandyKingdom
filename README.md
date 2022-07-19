@@ -1,2 +1,2 @@
 # CandyKingdom
- Candy Kingdom Android release
+ Candy Kingdom Unity release
